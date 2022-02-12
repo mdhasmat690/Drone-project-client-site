@@ -1,0 +1,22 @@
+.dashboard {
+    background-color: #484b49;
+    height: 500px;
+    color: white;
+    cursor: pointer;
+   
+  }
+  .dashboard-style {
+    list-style: none;
+    margin-top: 10px;
+    text-decoration: none;
+    text-align: left;
+    margin-left: 60px;
+   
+  }
+  .dashboard-style:hover {
+    color: red;
+  }
+
+  .text-decoration {
+    text-decoration: none;
+  }

@@ -1,0 +1,14 @@
+.product-name {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+}
+
+.btn-style{
+    background-color: #7cb7ff;
+    color: black;
+    border-radius: 10px;
+    border: none;
+    padding: 4px;
+    width: 90px;
+}
